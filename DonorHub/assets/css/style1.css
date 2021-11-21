@@ -1,0 +1,14 @@
+*{
+    font-size:15px;
+}
+#textfname{
+    font-style: italic;
+}
+h1{
+    /* color: aqua; */
+    font-style: italic;
+}
+#cname{
+    /* color: aqua; */
+    font-style: oblique; 
+}
